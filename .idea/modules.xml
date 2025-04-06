@@ -5,9 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Bank Account Management System.iml" filepath="$PROJECT_DIR$/Bank Account Management System.iml" />
       <module fileurl="file://$PROJECT_DIR$/account-service/account-service.iml" filepath="$PROJECT_DIR$/account-service/account-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/src/exception/exception.iml" filepath="$PROJECT_DIR$/common/src/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/src/model/model.iml" filepath="$PROJECT_DIR$/common/src/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/notification-service/notification-service.iml" filepath="$PROJECT_DIR$/notification-service/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/src/repository/repository.iml" filepath="$PROJECT_DIR$/common/src/repository/repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/transaction-service/transaction-service.iml" filepath="$PROJECT_DIR$/transaction-service/transaction-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/src/util/util.iml" filepath="$PROJECT_DIR$/common/src/util/util.iml" />
     </modules>
   </component>
 </project>
